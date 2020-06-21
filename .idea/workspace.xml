@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec49293f-e26c-4c9e-8545-8adf7fa08fe9" name="Default Changelist" comment="" />
+    <list default="true" id="ec49293f-e26c-4c9e-8545-8adf7fa08fe9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/todo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1daKC1LuF9NzDNEWOV9AVhOfbMZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,8 +26,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo-demo" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592657632307</updated>
       <workItem from="1592657633497" duration="3141000" />
+      <workItem from="1592706730019" duration="3137000" />
     </task>
     <servers />
   </component>
@@ -45,6 +53,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592659955818" />
+    <state x="988" y="445" key="FileChooserDialogImpl" timestamp="1592706937715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="445" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592706937715" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592660777223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -61,5 +73,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592660777223" />
+    <state x="926" y="168" key="SettingsEditor" timestamp="1592707385909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592707385909" />
   </component>
 </project>
